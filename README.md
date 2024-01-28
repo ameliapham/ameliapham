@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋  
+
+<div align="center">  
+
+[![ameliapham's github stats](https://github-readme-stats.vercel.app/api?username=ameliapham&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)](https://github.com/ameliapham/ameliapham)  
+    
+![](https://komarev.com/ghpvc/?username=ameliapham)
+
+</div>  
+
 
 
 **ameliapham/ameliapham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
