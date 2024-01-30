@@ -8,6 +8,11 @@ I'm Amélia, a UI Designer and Front-End Developer.
     
 ![](https://komarev.com/ghpvc/?username=ameliapham)
 
+</div>  
+
+## Most used languages
+<div align="center">  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliapham&layout=compact&theme=noctis_minimus)
 
 </div>  
