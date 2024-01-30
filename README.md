@@ -1,25 +1,13 @@
 ### Hi there 👋  
 
+I'm Amélia, a UI Designer and Front-End Developer.
+
 <div align="center">  
 
 [![ameliapham's github stats](https://github-readme-stats.vercel.app/api?username=ameliapham&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)](https://github.com/ameliapham/ameliapham)  
     
 ![](https://komarev.com/ghpvc/?username=ameliapham)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliapham&layout=compact&theme=noctis_minimus)
+
 </div>  
-
-
-
-**ameliapham/ameliapham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
