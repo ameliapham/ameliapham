@@ -1,14 +1,22 @@
-### Hi there 👋  
+<div align="center">
+<kbd>
+<img src="https://github.com/user-attachments/assets/d265ebab-d37b-4e5f-b0fb-705c322c89d3" alt="Amelia Header Black" style="max-width: 100%; height: auto;" />
+</kbd>
+</div>
+
+## Hi there 👋  
 
 I'm Amélia, a UI Designer and Front-End Developer.
 
 <div align="center">  
 
-[![ameliapham's github stats](https://github-readme-stats.vercel.app/api?username=ameliapham&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)](https://github.com/ameliapham/ameliapham)  
+<a href="https://github.com/ameliapham">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ameliapham&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0E1217&title_color=fff&text_color=9f9f9f&icon_color=8B959E"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ameliapham&layout=compact&langs_count=8&theme=algolia&bg_color=0E1217&title_color=fff&text_color=9f9f9f&icon_color=8B959E"/>
+</a>
     
 ![](https://komarev.com/ghpvc/?username=ameliapham)
-
-</div>  
+</div>
 
 ## Tech Stack
 <div align="center">  
@@ -22,9 +30,9 @@ I'm Amélia, a UI Designer and Front-End Developer.
 
 </div>  
 
-## Most used languages
-<div align="center">  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameliapham&layout=compact&theme=noctis_minimus)
-
-</div>  
+## Connect with Me
+<p align="center">
+<a href="https://www.ameliart.fr/"><img src="https://img.shields.io/badge/-ameliart.fr-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/amelia-huong-pham/"><img src="https://img.shields.io/badge/-Amelia%20Pham%20Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pham@ameliart.fr"><img src="https://img.shields.io/badge/-pham@ameliart.fr-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
