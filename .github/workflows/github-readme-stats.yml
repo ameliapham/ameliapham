@@ -2,33 +2,44 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  
-  workflow_dispatch:     
+    - cron: '0 0 * * *'  # Mỗi ngày lúc 00:00 UTC
+  workflow_dispatch:     # Chạy thủ công
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@main
         with:
-          username: ${{ github.repository_owner }}
-          output_folder: .github/stats
-          commit_message: "chore: update github stats"
-          theme: "noctis_minimus"
-          title_color: "fff"
-          icon_color: "8B959E"
-          text_color: "9f9f9f"
-          bg_color: "0E1217"
-          hide_rank: false
-          show_icons: true
+          token: ${{ secrets.PAT_TOKEN }}  # Quan trọng: Thêm PAT để push commit (xem bước dưới)
 
-      - name: Commit files
+      - name: Generate Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: |
+            username=${{ github.repository_owner }}
+            title_color=fff
+            icon_color=8B959E
+            text_color=9f9f9f
+            bg_color=0E1217
+            show_icons=true
+            hide_rank=false
+            theme=noctis_minimus
+
+      - name: Generate Top Languages Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: |
+            username=${{ github.repository_owner }}
+            layout=compact
+            theme=noctis_minimus
+
+      - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Update stats" || echo "No changes to commit"
+          git commit -m "chore: update github readme stats" || echo "No changes to commit"
           git push
