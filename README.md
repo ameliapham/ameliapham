@@ -19,16 +19,39 @@ I'm Amélia, a UI Designer and Front-End Developer.
 </div>
 
 ## Tech Stack
+Web Dev
 <div align="center">  
 
-![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![ThreeJS](https://img.shields.io/badge/three.JS-%2320232a.svg?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![ThreeJS](https://img.shields.io/badge/three.JS-%2320232a.svg?style=for-the-badge&logo=three.js&logoColor=white) 
 [![TSS-React](https://img.shields.io/badge/TSS-%23058AC4.svg?style=for-the-badge&logo=TSS&logoColor=white)](https://www.tss-react.dev/) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![tsafe](https://img.shields.io/badge/tsafe-%23007ACC.svg?style=for-the-badge&logo=tsafe&logoColor=white) 
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) 
 
 </div>  
+
+UI/UX Design
+<div align="center">  
+    
+![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
+</div>
+
+Visual Creation
+
+<div align="center">  
+
+![Blender](https://img.shields.io/badge/Blender-%2300C4CC.svg?&style=for-the-badge&logo=Blender&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-FF9A00?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+</div>
 
 ## Connect with Me
 <p align="center">
